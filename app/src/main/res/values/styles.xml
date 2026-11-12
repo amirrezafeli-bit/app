@@ -1,0 +1,8 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#140a0f</item>
+        <item name="colorPrimaryDark">#0f070b</item>
+        <item name="colorAccent">#f48fb1</item>
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+</resources>
